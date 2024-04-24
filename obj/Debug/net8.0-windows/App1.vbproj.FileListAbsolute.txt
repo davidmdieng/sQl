@@ -1,0 +1,17 @@
+C:\Users\MALICK\Documents\VSProject\App1\bin\Debug\net8.0-windows\App1.exe
+C:\Users\MALICK\Documents\VSProject\App1\bin\Debug\net8.0-windows\App1.deps.json
+C:\Users\MALICK\Documents\VSProject\App1\bin\Debug\net8.0-windows\App1.runtimeconfig.json
+C:\Users\MALICK\Documents\VSProject\App1\bin\Debug\net8.0-windows\App1.dll
+C:\Users\MALICK\Documents\VSProject\App1\bin\Debug\net8.0-windows\App1.pdb
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.Form1.resources
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.vbproj.GenerateResource.cache
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.AssemblyInfoInputs.cache
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.AssemblyInfo.vb
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.vbproj.CoreCompileInputs.cache
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.dll
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\refint\App1.dll
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.pdb
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.genruntimeconfig.cache
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\ref\App1.dll
+C:\Users\MALICK\Documents\VSProject\App1\obj\Debug\net8.0-windows\App1.Form2.resources
